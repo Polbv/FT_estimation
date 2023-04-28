@@ -1,3 +1,4 @@
 # BASKETBALL FREE THROW ESTIMATOR 
-This project aims to build a FT estimator based on Pose estimation and SVM
+This project aims to build a FT estimator based on Pose estimation and SVM /n
+
 %%WORK IN PROGRESS%%
